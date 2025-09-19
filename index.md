@@ -3,7 +3,7 @@ layout: default
 ---
 # Matthew Davis Online Portfolio
 
-![Profile picture](/assets/img/IMG_1201.JPG)
+
 
 Dynamic Supply Chain and Logistics professional with over 5 years...
 
