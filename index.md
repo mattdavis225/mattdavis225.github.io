@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-# Matthew Davis Online Portfolio
-
-
-
-Dynamic Supply Chain and Logistics professional with over 5 years...
 
 [LinkedIn Link](www.linkedin.com/in/matthew-davis-8b597bb8).
 
