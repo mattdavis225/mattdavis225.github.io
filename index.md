@@ -14,7 +14,7 @@ layout: default
 
 **Soft Skills**
 : Leadership, Team Development, Change Management, Mentorship
-
+***
 # Education
 
 **The Ohio State University, Max M. Fisher College of Business**
@@ -26,9 +26,7 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 **California State University San Marcos**
 
 *In Progress: Master of Science in Supply Chain Analytics*
-
-
-
+***
 ## Work Experiance
 
 **Inventory Manager** 
@@ -58,7 +56,7 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 - Commended by the Provost Marshal General for enhancing team operations and improving workplace efficiency.
 - Selected as 1 of 140 personnel to deploy to Afghanistan, showcasing exceptional leadership and organizational skills.
 
-
+***
 ### Awards
 
 1. Afghanistan Campaign Medal w/ Bronze Campaign Star
