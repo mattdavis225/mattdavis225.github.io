@@ -4,7 +4,7 @@ layout: default
 
 [LinkedIn Link](www.linkedin.com/in/matthew-davis-8b597bb8).
 
-
+* * *
 # Skills
 **Techinical Skills**
 : Microsoft Excel, Microsoft Word, Python, Visual Studio Code, Power BI, Github, Manhattan WMS, JD Edwards SCM, SAP, NetSuite, AS 400, HighJump
@@ -14,7 +14,7 @@ layout: default
 
 **Soft Skills**
 : Leadership, Team Development, Change Management, Mentorship
-***
+* * *
 # Education
 
 **The Ohio State University, Max M. Fisher College of Business**
@@ -26,7 +26,7 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 **California State University San Marcos**
 
 *In Progress: Master of Science in Supply Chain Analytics*
-***
+* * *
 ## Work Experiance
 
 **Inventory Manager** 
@@ -58,6 +58,7 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 
 ***
 ### Awards
+* * *
 
 1. Afghanistan Campaign Medal w/ Bronze Campaign Star
 2. Certificate of Achievement
