@@ -2,7 +2,7 @@ title: Matthew Davis Online Portfolio
 logo: /assets/img/logo.JPG
 description: Dynamic Supply Chain and Logistics professional with over 5 years of experience managing inventory, managing operational teams, and implementing process improvements. 
 show_downloads: true
-google_analytics: 
+google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: jekyll-remote-theme
