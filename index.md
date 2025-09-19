@@ -15,12 +15,11 @@ layout: default
 **Soft Skills**
 : Leadership, Team Development, Change Management, Mentorship
 
-
 # Education
 
 **The Ohio State University, Max M. Fisher College of Business**
 
-Bachelor of Science in Business Administration (BSBA) | Class of 2023
+Bachelor of Science in Business Administration (BSBA) Class of 2023
 
 *Specializaion: Logistics Management*
 
