@@ -122,8 +122,9 @@ Then, I verified the live site at [https://mattdavis225.github.io](https://mattd
 - [Jekyll Minimal Theme](https://github.com/pages-themes/minimal)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [VSCode Markdown Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
-- ![Markdown Cheatsheet](img/markdown_cheatsheet.png)
 - [Git Documentation](https://git-scm.com/doc)
 
 ## Conclusion
 By following these steps, I successfully created a professional e-portfolio hosted on GitHub Pages using the Jekyll Minimal theme. The process involved setting up a repository, cloning it locally, customizing the theme, adding content, and publishing the site. Using VSCode’s Markdown Preview and Git commands streamlined the workflow, making it accessible even for beginners. This guide should help anyone replicate the process to create their own e-portfolio.
+
+[def]: img/markdown_cheatsheet.png
