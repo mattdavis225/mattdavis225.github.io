@@ -6,7 +6,7 @@ title: Guide to E-Portfolio Creation (Milestone 1)
 # Guide to E-Portfolio Creation (Milestone 1)
 
 ## Introduction
-This tutorial provides a comprehensive guide on how I created my professional e-portfolio using GitHub Pages for Milestone 1 of my class assignment. The e-portfolio showcases my professional skills, education, and work experience, built using the Jekyll Minimal theme for its clean and simple design. This guide is intended for newcomers, detailing every step from setting up a GitHub repository to customizing the portfolio’s appearance and content. It includes references to resources used, screenshots of key stages, and tips for using tools like Visual Studio Code (VSCode) to streamline the process.
+This tutorial provides a comprehensive guide on how I created my professional e-portfolio using GitHub Pages for Milestone 1 of my class assignment. The e-portfolio showcases my professional skills, education, and work experience, built using the Jekyll Minimal theme for its clean and simple design. This guide is intended to show every step from setting up a GitHub repository to customizing the portfolio’s appearance and content. It includes references to resources used, screenshots of key stages, and tips for using tools like Visual Studio Code (VSCode) to streamline the process.
 
 ## Step-by-Step Guide
 Below are the detailed steps I followed to create my e-portfolio, organized into sections for clarity.
@@ -72,7 +72,7 @@ theme: jekyll-theme-minimal
 
 **Add Logo Image:**
 - Selected a professional headshot and renamed it to `logo.jpg`.
-- Created an `assets/img/` folder in the repository (if it didn’t exist).
+- Created an `assets/img/` folder in the repository (if it didn’t exist. I cannot remember if it existed initially).
 - Copied `logo.jpg` into `assets/img/`.
 
 **Preview Changes:** I used VSCode’s Markdown Preview feature to view how the updated `_config.yml` affected the site’s header.  
@@ -80,15 +80,6 @@ theme: jekyll-theme-minimal
 
 **Resource:** [VSCode Markdown Preview documentation](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
 
-#### Customizing Styles
-To personalize the theme’s appearance, I modified the SCSS files:
-
-```scss
-font-family: "Arial", sans-serif;
-a { color: #2a7ae2; }
-```
-
-Although I didn’t run a local Jekyll server, I pushed changes to GitHub to preview them live at [https://mattdavis225.github.io](https://mattdavis225.github.io).
 
 ### Step 5: Creating Content for the Main Page
 The `index.md` file in the root folder hosts the main page content. I structured it to mirror my professional resume.
@@ -112,7 +103,7 @@ The `index.md` file in the root folder hosts the main page content. I structured
 **Resource:** [Markdown Guide](https://www.markdownguide.org/cheat-sheet)
 
 ### Step 6: Finalizing and Publishing
-After completing the content and styling, I finalized the portfolio and published it.
+After completing the content and styling, I finalized the portfolio and published it. Here are the command terminal codes necessary to do it: 
 
 ```bash
 git add .
@@ -123,7 +114,7 @@ git push origin main
 Then, I verified the live site at [https://mattdavis225.github.io](https://mattdavis225.github.io).
 
 ## Screenshots of the Process
-- **Theme Customization:** Editing `_sass/minimal.scss` to change link colors in VSCode.  
+
 - **Final Live Page:** The completed e-portfolio as it appears online.  
 - **Live URL Confirmation:** Browser address bar showing the correct URL for my GitHub Pages site.
 
@@ -131,7 +122,7 @@ Then, I verified the live site at [https://mattdavis225.github.io](https://mattd
 - [Jekyll Minimal Theme](https://github.com/pages-themes/minimal)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [VSCode Markdown Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
-- Markdown Cheatsheet (Provided by my professor, screenshot: `../assets/img/markdown_cheatsheet.png`)
+- ![Markdown Cheatsheet](img/markdown_cheatsheet.png)
 - [Git Documentation](https://git-scm.com/doc)
 
 ## Conclusion
