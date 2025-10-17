@@ -67,3 +67,10 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 5. NATO Medal
 6. Overseas Medal
 
+***
+# Projects
+* * *
+
+Here are some of the analytical and e-portfolio projects I've worked on:
+
+1. [Guide: Creating and Customizing Your GitHub E-Portfolio (Milestone 1 Steps)](/projects/)
