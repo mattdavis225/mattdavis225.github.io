@@ -67,8 +67,13 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 5. NATO Medal
 6. Overseas Medal
 
-***
-# Projects
+## Projects
+
+### Academic & Analytics Work
+- [OM 620 – Tools & Technologies for Business Analytics Projects](/projects/om620-inventory-analytics)
+
+
+
 * * *
 
 Here are some of the analytical and e-portfolio projects I've worked on:
