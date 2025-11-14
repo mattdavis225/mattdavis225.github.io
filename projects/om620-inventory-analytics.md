@@ -32,7 +32,7 @@ Full code, data structure, and detailed README:
 **GitHub Repo:**  
 https://github.com/mattdavis225/CSUSM-OM620-Projects
 
-### 📓 Combined Notebook
+### Combined Notebook
 
 The notebook that contains Assignments 1 & 2 together:
 
