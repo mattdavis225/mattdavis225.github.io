@@ -71,7 +71,7 @@ Bachelor of Science in Business Administration (BSBA) Class of 2023
 
 ### Academic & Analytics Work
 - [OM 620 – Tools & Technologies for Business Analytics Projects](/projects/om620-inventory-analytics)
-
+- [Transportation Cost Estimation & Forecasting System](./OM621_project.md)
 
 
 * * *
